@@ -13,8 +13,8 @@ A basic Notepad-like text editor built with Java Swing. Supports text editing, o
 - Basic error handling for file operations
 
 ## Requirements
-- Java 8 or later
-- Any Java IDE (IntelliJ, Eclipse, NetBeans)
+- Java 8
+- Java IDE (IntelliJ)
 
 ## How to Run
 1. Clone the repository:
